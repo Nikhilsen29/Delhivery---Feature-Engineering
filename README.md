@@ -5,8 +5,8 @@ The Data team builds intelligence and capabilities using this data that helps th
 
 # Column Profiling:
 
-data - tells whether the data is testing or training data
-trip_creation_time – Timestamp of trip creation
+- data - tells whether the data is testing or training data
+- trip_creation_time – Timestamp of trip creation
 route_schedule_uuid – Unique Id for a particular route schedule
 route_type – Transportation type
 FTL – Full Truck Load: FTL shipments get to the destination sooner, as the truck is making no other pickups or drop-offs along the way
